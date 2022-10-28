@@ -1,0 +1,56 @@
+BEBIDAS:
+
+ALCOHOL:
+    -Whisky
+        -Whisky With Tonic
+        -John Collins
+        -Café irlandés con nata
+        -Whiskey on the rocks
+        //https://www.recetasgratis.net/articulo-tragos-y-cocteles-con-whisky-75279.html
+    -Tequila 
+        -Charro Negro
+        -Mojito
+        -Paloma (Refresco de Toronja)
+        -Margarita Clásica
+        https://entrecopasdeagave.com/bebidas-con-tequila/
+
+    -Ron
+        -Piña Colada
+        -Mojito
+        -Cuba Libre
+        -Daiquiri
+        https://aprende.com/blog/gastronomia/bartender/5-cocteles-de-ron-para-disfrutar/
+    -Beer
+        -Black Velvet
+        -Cóctel Mónaco
+        -Michelada
+        -Just the Beer
+        https://www.cocteleria.com.mx/blog/cocteleria/cocteles-con-cerveza/
+        
+SODA:
+    -Refresco de Cola (Coca cola, Pepsi)
+    -Agua mineral  
+    - 7UP o Sprite
+    -Refresco de Toronja (Fresca)
+    -Dr. Pepper
+FRUIT:
+    -Naranja
+    -Piña
+    -Sandía
+    -Limón
+    https://www.lacocinamexicanadepily.com/2014/05/aguas-frescasaguas-de-sabores-35-recetas-diferentes/
+MILK:
+    -Chocomilk (Simple)
+    -Chocomilk (With Banana)
+    -Matcha Latte
+    https://www.eluniversal.com.mx/menu/bebidas-deliciosas-que-llevan-leche
+
+COFFEE;
+    -Espresso
+    -American Coffee
+    -Cappuccino
+    -Frappe
+    -Iced Coffee
+
+Como usar hilos:
+Va a ser un programa que digas, agregamos whisky, agregamos agua, mix.... servimos todo, y listo.

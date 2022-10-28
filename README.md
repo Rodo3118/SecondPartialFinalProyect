@@ -1,0 +1,5 @@
+# 2ndParcialProyect
+Project for the second part of Advanced Programming. The project consists of a program that makes drinks depending on the whim that the user has, it can be alcohol, coffee or even fruit juices.
+The program starts by asking you what ingredient you have, be it alcohol, milk, coffee, or some fruit. From there, depending on your choice, the program asks you what kind you want, for example if you put alcohol, it gives you the option of whiskey, beer, tequila or rum. Once you have chosen your final ingredient option, a will show you a list of all possible drinks with that ingredient. Upon choosing your final drink, the program will start a thread that will open files with the specified information about your drink, and use a delay method to make it look like a real bartender. At the end of creating your drink, the program asks you if you want to make another one, or if you want to close it, it's up to you if you want to relive that experience or keep your drink.
+
+Video with explication: https://youtu.be/GX6asgUh77k
